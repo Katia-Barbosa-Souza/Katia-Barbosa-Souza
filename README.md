@@ -1,10 +1,10 @@
 # Olá, eu sou a Katia Barbosa de Souza 👋
 
-Profissional em transição para **Dados e Cloud Computing**, com formação em Análise e Desenvolvimento de Sistemas pela UniCesumar. Construo soluções que unem infraestrutura em nuvem, análise de dados estratégica e automação.
+Profissional em transição para Dados e Cloud Computing, com foco em transformar dados em decisões estratégicas e construir soluções em nuvem escaláveis.
 
 ---
 
-### 🚀 Jornada de Especialização (Bolsista por Mérito)
+### 🚀 Jornada de Especialização
 
 Atualmente estou imersa em programas intensivos de formação técnica, selecionada entre milhares de candidatos:
 
@@ -44,15 +44,15 @@ Laboratórios práticos em EC2, RDS, VPC, S3, IAM, Systems Manager e Bedrock.
 
 ### 📊 Projeto de Dados (Destaque)
 
-📈 Dashboard Comercial: Performance de Vendas
-Análise exploratória completa com foco em faturamento, lucratividade (Curva ABC) e insights geográficos. Projeto documentado com foco em Storytelling e Inteligência de Negócio.
+📈 [Dashboard Comercial: Performance de Vendas](https://github.com/Katia-Barbosa-Souza/analise-vendas-powerbi)
+
+Análise exploratória com foco em faturamento, lucratividade (Curva ABC) e insights estratégicos para tomada de decisão.
 
 ---
 
-### 📫 Vamos nos conectar?
+##📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiabarbosasouza/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katiabarbosads@gmail.com)
-
+🔗 [LinkedIn](https://linkedin.com/in/seu-link)
+📧 [Email](mailto:seuemail@email.com)
 ---
 "Infraestrutura criada não significa infraestrutura funcionando — aprendi isso na prática resolvendo problemas reais."
