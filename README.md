@@ -23,12 +23,10 @@ Laboratórios práticos em EC2, RDS, VPC, S3, IAM, Systems Manager e Bedrock.
 
 ### 🛠️ Stack Técnica
 
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Cloud** | AWS (EC2 · RDS · IAM · VPC · S3 · Systems Manager) |
-| **Dados** | Power BI · DAX · Power Query · SQL · ETL · Excel Avançado |
-| **DevOps** | Linux (Shell Script) · Docker · Kubernetes · Git · GitHub · CI/CD |
-| **Lógica/Dev** | Python (Pandas · Matplotlib) · JavaScript · Java |
+**☁️ Cloud:** AWS (EC2 · RDS · IAM · VPC · S3 · Systems Manager)  
+**📊 Dados:** Power BI · DAX · Power Query · SQL · ETL · Excel  
+**⚙️ DevOps:** Linux · Docker · Kubernetes · Git · CI/CD  
+**💻 Linguagens:** Python (Pandas) · JavaScript · Java  
 
 ---
 
