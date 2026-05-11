@@ -10,13 +10,9 @@ Atualmente estou imersa em programas intensivos de formação técnica, selecion
 
 * ☁️ AWS Cloud & IA — Escola da Nuvem (Fev–Jul 2026) Foco: Preparação Intensiva para a Certificação AWS Certified Cloud Practitioner (CLF-C02).
 Laboratórios práticos em EC2, RDS, VPC, S3, IAM, Systems Manager e Bedrock.
-* ☸️ **DevOps — Santander + Alura + FIAP** *(até abr 2026)*
-  Linux, Docker, Kubernetes, CI/CD, Prometheus, Grafana e Loki.
 * 🐍 **Python para Dados — PrograMaria** *(até mai 2026)*
   Pandas, estatística, SQL + Python, visualização e Machine Learning.
-* 🔐 **Cibersegurança — Hackers do Bem** *(em andamento)*
-  Redes, Linux, fundamentos de segurança e conformidade em nuvem.
-* 🏆 **Santander Jornada Tech AWS** *(Selecionada — Aguardando início)*
+* 🏆 **Santander Jornada Tech AWS** 
   Foco na certificação AWS Cloud Practitioner / AI Practitioner.
 
 ---
@@ -25,7 +21,6 @@ Laboratórios práticos em EC2, RDS, VPC, S3, IAM, Systems Manager e Bedrock.
 
 **☁️ Cloud:** AWS (EC2 · RDS · IAM · VPC · S3 · Systems Manager)  
 **📊 Dados:** Power BI · DAX · Power Query · SQL · ETL · Excel  
-**⚙️ DevOps:** Linux · Docker · Kubernetes · Git · CI/CD  
 **💻 Linguagens:** Python (Pandas) · JavaScript · Java  
 
 ---
