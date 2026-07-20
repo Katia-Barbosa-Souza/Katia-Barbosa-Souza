@@ -10,10 +10,8 @@ Atualmente estou imersa em programas intensivos de formação técnica, selecion
 
 * ☁️ AWS Cloud & IA — Escola da Nuvem (Fev–Jul 2026) Foco: Preparação Intensiva para a Certificação AWS Certified Cloud Practitioner (CLF-C02).
 Laboratórios práticos em EC2, RDS, VPC, S3, IAM, Systems Manager e Bedrock.
-* 🐍 **Python para Dados — PrograMaria** *(até mai 2026)*
+* 🐍 **Python para Dados — PrograMaria** 
   Pandas, estatística, SQL + Python, visualização e Machine Learning.
-* 🏆 **Santander Jornada Tech AWS** 
-  Foco na certificação AWS Cloud Practitioner / AI Practitioner.
 
 ---
 
